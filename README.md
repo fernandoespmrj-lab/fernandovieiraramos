@@ -1,10 +1,11 @@
-# Fernando Vieira Raramos
+# Fernando Vieira Ramos
 Portfólio Profissional de Fernando Vieira Ramos
+
 **Líder de Projetos Sênior | Produtos Digitais & Tecnologia**
 
 📍 Rio de Janeiro | 📧 fernando_v_r@msn.com | 📱 (21) 99106-5913
 
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando-vieira-ramos-po)
+🔗 [LinkedIn](www.linkedin.com/in/fernandovieiraramos)
 
 ---
 
