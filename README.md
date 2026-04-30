@@ -26,49 +26,6 @@ Profissional certificado com sólida experiência em gestão de projetos e produ
 
 ---
 
-### 🏆 Projetos de Destaque
-
-### **Planne (2025 - atual)**
-
-### Otimização de Checkout e Eficiência Financeira via 3DS Inteligente
-
-### **Contexto**
-
-O fluxo de pagamentos apresentava alta fricção e custos elevados devido a múltiplas retentativas de compra. Transações que falhavam inicialmente eram reprocessadas pelo antifraude (ClearSale) repetidas vezes, gerando custos incrementais sem necessariamente aumentar a taxa de conversão.
-
-### **Desafio**
-
-Implementar o **3DS Inteligente** integrado ao gateway de pagamento para reduzir a fricção do comprador (UX) e otimizar o custo operacional de análise de risco.
-
-
-# **Portfólio Profissional de Fernando Vieira Ramos**
-
-## 🎯 Fernando Vieira Ramos
-
-**Líder de Projetos Sênior | Produtos Digitais & Tecnologia**
-
-📍 Rio de Janeiro | 📧 fernando_v_r@msn.com | 📱 (21) 99106-5913
-
-🔗 [LinkedIn](https://www.linkedin.com/in/fernandovieiraramos)
-
----
-
-### 👤 Sobre Mim
-
-Profissional certificado com sólida experiência em gestão de projetos e produtos digitais. Atuo liderando squads multidisciplinares, promovendo entregas estratégicas e garantindo resultados financeiros. Tenho perfil dinâmico, com foco em inovação, colaboração e excelência operacional.
-
----
-
-### 🧩 Competências-Chave
-
-- Gestão de Projetos Ágeis (Scrum, Kanban) e Tradicionais (PMBOK)
-- Liderança de Squads e Times Multidisciplinares
-- Migração e Implantação de Sistemas
-- Gestão Financeira de Projetos (receita, custos, margem)
-- Ferramentas: Jira, DevOps, Looker, Excel avançado
-- Comunicação Estratégica e Gestão de Stakeholders
-
----
 
 ### 🏆 Projetos de Destaque
 
