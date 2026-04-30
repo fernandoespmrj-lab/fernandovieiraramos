@@ -3,7 +3,7 @@ Portfólio Profissional de Fernando Vieira Ramos
 
 **Líder de Projetos Sênior | Produtos Digitais & Tecnologia**
 
-📍 Rio de Janeiro | 📧 fernando_v_r@msn.com | 📱 (21) 99106-5913
+📍 Rio de Janeiro | 📧 fernando_v_r@msn.com |  📱 (21) 99106-5913
 
 🔗 [LinkedIn](www.linkedin.com/in/fernandovieiraramos)
 
@@ -36,8 +36,6 @@ Profissional certificado com sólida experiência em gestão de projetos e produ
 - Atuação direta com stakeholders e consultores educacionais
 
 ---
-
-## **Planne**
 
 ### Otimização de Checkout e Eficiência Financeira via 3DS Inteligente
 
