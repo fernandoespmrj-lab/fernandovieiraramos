@@ -30,10 +30,84 @@ Profissional certificado com sólida experiência em gestão de projetos e produ
 
 ### **Planne (2025 - atual)**
 
+### Otimização de Checkout e Eficiência Financeira via 3DS Inteligente
+
+### **Contexto**
+
+O fluxo de pagamentos apresentava alta fricção e custos elevados devido a múltiplas retentativas de compra. Transações que falhavam inicialmente eram reprocessadas pelo antifraude (ClearSale) repetidas vezes, gerando custos incrementais sem necessariamente aumentar a taxa de conversão.
+
+### **Desafio**
+
+Implementar o **3DS Inteligente** integrado ao gateway de pagamento para reduzir a fricção do comprador (UX) e otimizar o custo operacional de análise de risco.
+
+
+# **Portfólio Profissional de Fernando Vieira Ramos**
+
+## 🎯 Fernando Vieira Ramos
+
+**Líder de Projetos Sênior | Produtos Digitais & Tecnologia**
+
+📍 Rio de Janeiro | 📧 fernando_v_r@msn.com | 📱 (21) 99106-5913
+
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandovieiraramos)
+
+---
+
+### 👤 Sobre Mim
+
+Profissional certificado com sólida experiência em gestão de projetos e produtos digitais. Atuo liderando squads multidisciplinares, promovendo entregas estratégicas e garantindo resultados financeiros. Tenho perfil dinâmico, com foco em inovação, colaboração e excelência operacional.
+
+---
+
+### 🧩 Competências-Chave
+
+- Gestão de Projetos Ágeis (Scrum, Kanban) e Tradicionais (PMBOK)
+- Liderança de Squads e Times Multidisciplinares
+- Migração e Implantação de Sistemas
+- Gestão Financeira de Projetos (receita, custos, margem)
+- Ferramentas: Jira, DevOps, Looker, Excel avançado
+- Comunicação Estratégica e Gestão de Stakeholders
+
+---
+
+### 🏆 Projetos de Destaque
+
+### **Planne (2025 - atual)**
+
 - Liderança de squads em produtos digitais
 - Gestão do ciclo completo dos projetos com foco em resultados financeiros
 - Atuação direta com stakeholders e consultores educacionais
 
+---
+
+## **Planne**
+
+### Otimização de Checkout e Eficiência Financeira via 3DS Inteligente
+
+### **Contexto**
+
+O fluxo de pagamentos apresentava alta fricção e custos elevados devido a múltiplas retentativas de compra. Transações que falhavam inicialmente eram reprocessadas pelo antifraude (ClearSale) repetidas vezes, gerando custos incrementais sem necessariamente aumentar a taxa de conversão.
+
+### **Desafio**
+
+Implementar o **3DS Inteligente** integrado ao gateway de pagamento para reduzir a fricção do comprador (UX) e otimizar o custo operacional de análise de risco.
+
+### **Ação (O que eu fiz)**
+
+- Liderei o refinamento técnico e a priorização da integração do **3DS + Antifraude ClearSale**.
+- Coordenei o time no desenho do fluxo lógico: o 3DS passou a atuar como uma camada de recuperação, evitando que transações legítimas fossem enviadas repetidamente para análise manual ou sistêmica de fraude.
+- Estabeleci métricas de sucesso junto ao time financeiro para monitorar a economia direta por transação.
+
+### **Resultados (Mar/25 vs. Mar/26)**
+
+A implementação trouxe um impacto direto no *bottom line* da operação:
+
+- **Redução de Fricção no Checkout:** O ratio de tentativas de pagamento por compra aprovada caiu de **2,03 para 1,46** (uma melhoria de **28%** na jornada do usuário).
+- **Eficiência de Custos (Antifraude):**
+    - Redução do custo total mensal de análise de **R$ 9.852,70 para R$ 6.172,00**.
+    - Diminuição de **37% no custo médio por transação aprovada** (de R$ 0,65 para R$ 0,41).
+ 
+    - Otimização de Fluxo: Eliminamos o reprocessamento desnecessário no antifraude para transações recuperadas via 3DS, garantindo que o custo incremental fosse zero em casos de retentativa bem-sucedida.
 ---
 
 ### **Sysmanager | Light**
