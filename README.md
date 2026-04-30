@@ -35,7 +35,6 @@ Profissional certificado com sólida experiência em gestão de projetos e produ
 - Gestão do ciclo completo dos projetos com foco em resultados financeiros
 - Atuação direta com stakeholders e consultores educacionais
 
----
 
 ### Otimização de Checkout e Eficiência Financeira via 3DS Inteligente
 
