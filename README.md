@@ -132,14 +132,14 @@ Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiên
 
 ### **IBMEC**
 
-*Modernização Acadêmica e Migração de Sistemas
+### Modernização Acadêmica e Migração de Sistemas
 
 - Liderei a migração dos sistemas acadêmicos e administrativos do IBMEC para o ERP Protheus, além da transição da plataforma EAD do Moodle para Blackboard.
 - Coordenei uma equipe multidisciplinar de 14 profissionais, atuando na gestão de cronograma, riscos, integração entre áreas acadêmicas e tecnologia e acompanhamento executivo do projeto.
 - Conduzi a implantação e integração de sistemas críticos garantindo estabilidade operacional, continuidade acadêmica e mitigação de impactos durante a transição.
 - Atuei diretamente na governança do projeto, alinhamento com stakeholders e gestão das entregas em ambiente de alta criticidade educacional.
 
-*Resultados de Destaque
+**Resultados de Destaque:**
 - Migração concluída sem impactos relevantes para operação acadêmica e administrativa.
 - Garantia de continuidade dos serviços para milhares de alunos e docentes.
 - Modernização da infraestrutura acadêmica digital do IBMEC, aumentando escalabilidade e capacidade operacional.
