@@ -37,7 +37,7 @@ Gerente de Projetos com mais de 14 anos de experiência em transformação digit
 
 ### Otimização de Checkout e Eficiência Financeira — Planne
 
-**Liderei a implantação do fluxo inteligente de autenticação 3DS integrado ao antifraude ClearSale, reduzindo fricção no checkout e otimizando custos operacionais.
+Liderei a implantação do fluxo inteligente de autenticação 3DS integrado ao antifraude ClearSale, reduzindo fricção no checkout e otimizando custos operacionais.
 Coordenei priorização técnica, desenho do fluxo de recuperação de transações e definição de KPIs financeiros junto às áreas de negócio.
 Redução de 28% nas tentativas de pagamento por compra aprovada (2,03 → 1,46).
 Redução de 37% no custo médio por transação aprovada (R$ 0,65 → R$ 0,41).
@@ -50,7 +50,7 @@ Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiên
 
 **Papel:** Gerente de Projetos Sênior | Transformação Digital
 
-**Liderei a implantação da LIA, plataforma de atendimento digital da Light, conduzindo iniciativas de transformação digital em ambiente de alta complexidade operacional.
+Liderei a implantação da LIA, plataforma de atendimento digital da Light, conduzindo iniciativas de transformação digital em ambiente de alta complexidade operacional.
 Coordenei squads multidisciplinares e projetos de integração entre sistemas legados, plataformas digitais e estruturas de Data Lake corporativo.
 Estruturei governança operacional, indicadores executivos e processos ágeis para aumentar previsibilidade, eficiência e escalabilidade das entregas.
 Atuei na integração entre áreas de tecnologia, negócio e operações, garantindo alinhamento estratégico e continuidade operacional.
