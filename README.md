@@ -11,18 +11,22 @@ Portfólio Profissional de Fernando Vieira Ramos
 
 ### 👤 Sobre Mim
 
-Profissional certificado com sólida experiência em gestão de projetos e produtos digitais. Atuo liderando squads multidisciplinares, promovendo entregas estratégicas e garantindo resultados financeiros. Tenho perfil dinâmico, com foco em inovação, colaboração e excelência operacional.
+Gerente de Projetos com mais de 14 anos de experiência em transformação digital, implantação de sistemas críticos e liderança de projetos de alta complexidade. Atuação em empresas como Oi, Light, YDUQS, IBMEC e ESPM, conduzindo iniciativas estratégicas em educação, utilities e segurança pública. Especialista em gestão de stakeholders, governança, delivery ágil/híbrido e operações de larga escala, com foco em previsibilidade, eficiência operacional e geração de valor para o negócio.
 
 ---
 
 ### 🧩 Competências-Chave
 
-- Gestão de Projetos Ágeis (Scrum, Kanban) e Tradicionais (PMBOK)
-- Liderança de Squads e Times Multidisciplinares
-- Migração e Implantação de Sistemas
-- Gestão Financeira de Projetos (receita, custos, margem)
-- Ferramentas: Jira, DevOps, Looker, Excel avançado
-- Comunicação Estratégica e Gestão de Stakeholders
+- Gestão de Projetos Digitais e Transformação Digital
+- Metodologias Ágeis e Híbridas (Scrum, Kanban e PMBOK)
+- Governança, PMO e Gestão de Portfólio
+- Liderança de Projetos e Times Multidisciplinares
+- Gestão de Stakeholders e Comunicação Executiva
+- Migração, Implantação e Integração de Sistemas
+- Gestão Financeira de Projetos (P&L, custos e margem)
+- Gestão de Riscos, KPIs e Melhoria Contínua
+- Delivery Management e Operações Críticas
+- Ferramentas: Jira, Confluence, Azure DevOps, Power BI e MS Project
 
 ---
 
@@ -31,59 +35,25 @@ Profissional certificado com sólida experiência em gestão de projetos e produ
 
 ### **Planne (2025 - atual)**
 
-- Liderança de squads em produtos digitais
-- Gestão do ciclo completo dos projetos com foco em resultados financeiros
-- Atuação direta com stakeholders e consultores educacionais
-
-
-### Otimização de Checkout e Eficiência Financeira via 3DS Inteligente
-
-### **Contexto**
-
-O fluxo de pagamentos apresentava alta fricção e custos elevados devido a múltiplas retentativas de compra. Transações que falhavam inicialmente eram reprocessadas pelo antifraude (ClearSale) repetidas vezes, gerando custos incrementais sem necessariamente aumentar a taxa de conversão.
-
-### **Desafio**
-
-Implementar o **3DS Inteligente** integrado ao gateway de pagamento para reduzir a fricção do comprador (UX) e otimizar o custo operacional de análise de risco.
-
-### **Ação (O que eu fiz)**
-
-- Liderei o refinamento técnico e a priorização da integração do **3DS + Antifraude ClearSale**.
-- Coordenei o time no desenho do fluxo lógico: o 3DS passou a atuar como uma camada de recuperação, evitando que transações legítimas fossem enviadas repetidamente para análise manual ou sistêmica de fraude.
-- Estabeleci métricas de sucesso junto ao time financeiro para monitorar a economia direta por transação.
-
-### **Resultados (Mar/25 vs. Mar/26)**
-
-A implementação trouxe um impacto direto no *bottom line* da operação:
-
-- **Redução de Fricção no Checkout:** O ratio de tentativas de pagamento por compra aprovada caiu de **2,03 para 1,46** (uma melhoria de **28%** na jornada do usuário).
-- **Eficiência de Custos (Antifraude):**
-    - Redução do custo total mensal de análise de **R$ 9.852,70 para R$ 6.172,00**.
-    - Diminuição de **37% no custo médio por transação aprovada** (de R$ 0,65 para R$ 0,41).
- 
-    - Otimização de Fluxo: Eliminamos o reprocessamento desnecessário no antifraude para transações recuperadas via 3DS, garantindo que o custo incremental fosse zero em casos de retentativa bem-sucedida.
+Otimização de Checkout e Eficiência Financeira — Planne
+Liderei a implantação do fluxo inteligente de autenticação 3DS integrado ao antifraude ClearSale, reduzindo fricção no checkout e otimizando custos operacionais.
+Coordenei priorização técnica, desenho do fluxo de recuperação de transações e definição de KPIs financeiros junto às áreas de negócio.
+Redução de 28% nas tentativas de pagamento por compra aprovada (2,03 → 1,46).
+Redução de 37% no custo médio por transação aprovada (R$ 0,65 → R$ 0,41).
+Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiência operacional e experiência do usuário.
 ---
 
 ### **Sysmanager | Light**
 
 ### Implantação da LIA (Atendimento Digital) | Light & Sysmanager
 
-**Papel:** Gerente de Projetos Sênior / Agile Coach
+**Papel:** Gerente de Projetos Sênior | Transformação Digital
 
-**O Projeto:**
-Liderança ponta a ponta da estratégia de transformação digital da Light, com foco na criação e implantação da **LIA**, a assistente virtual e plataforma de atendimento digital da companhia. O objetivo era modernizar a relação com o cliente e reduzir a carga dos canais analógicos.
-
-**Ações e Transformação:**
-
-- **Modernização da Governança:** Implantei processos ágeis em toda a camada de tecnologia e governança, realizando treinamentos em **Scrum, JIRA e DevOps** para elevar a maturidade das equipes.
-- **Infraestrutura de Dados:** Coordenei a migração complexa de grandes volumes de dados para **Data Lake**, garantindo que a plataforma tivesse suporte de dados em tempo real e inteligência para o atendimento.
-- **Integração de Sistemas Legados:** Liderança técnica para integrar a nova interface digital com os sistemas robustos e antigos da concessionária, garantindo estabilidade e fluidez na jornada do usuário.
-
-**Resultados de Alto Impacto:**
-
-- **Escalabilidade:** Criação de um canal de atendimento digital altamente escalável, impactando diretamente **1,5 milhão de cidadãos**.
-- **Eficiência Operacional:** Redução significativa na fricção de atendimento, tornando a Light uma referência em inovação no setor de *utilities*.
-- **Cultura Ágil:** Consolidação de squads digitais autônomos e focados em entrega de valor contínuo.
+**Liderei a implantação da LIA, plataforma de atendimento digital da Light, conduzindo iniciativas de transformação digital em ambiente de alta complexidade operacional.
+Coordenei squads multidisciplinares e projetos de integração entre sistemas legados, plataformas digitais e estruturas de Data Lake corporativo.
+Estruturei governança operacional, indicadores executivos e processos ágeis para aumentar previsibilidade, eficiência e escalabilidade das entregas.
+Atuei na integração entre áreas de tecnologia, negócio e operações, garantindo alinhamento estratégico e continuidade operacional.
+A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a capacidade de atendimento digital e reduzindo fricção nos canais tradicionais.
 
 **Link do Projeto:** [Veja a LIA em ação no Instagram](https://www.instagram.com/reel/DJaLy5hJqqs/)
 
@@ -93,22 +63,19 @@ Liderança ponta a ponta da estratégia de transformação digital da Light, com
 
 ### Plataforma SIRIUS (Ecossistema B2B) | GrupoQ & YDUQS
 
-**Papel:** Head da Business Unit de Projetos B2B
+**Papel:** Head de Projetos B2B | Gerente de Projetos Estratégicos
 
-**O Projeto:**
-Liderança estratégica e operacional da BU responsável pela criação e entrega do **SIRIUS**, a primeira e mais robusta plataforma acadêmica integrada para o mercado B2B do grupo YDUQS. O desafio era unificar a experiência educacional de diversas marcas premium sob uma única infraestrutura escalável.
+** - Liderei a estruturação e entrega da plataforma acadêmica integrada SIRIUS, iniciativa estratégica do grupo YDUQS para unificação da experiência educacional B2B em larga escala.
+- Gerenciei simultaneamente um portfólio de 10 projetos estratégicos em 18 meses, garantindo previsibilidade, controle financeiro e alinhamento executivo para marcas como IBMEC, Estácio, Damásio, Wyden e Percursa.
+- Coordenei squads multidisciplinares e iniciativas de migração, implantação e integração de sistemas acadêmicos, assegurando estabilidade operacional e escalabilidade da plataforma.
+- Atuei diretamente com stakeholders C-level na definição de roadmap, governança e priorização de entregas alinhadas aos objetivos de expansão e receita do grupo.
+- Estruturei processos operacionais e indicadores executivos para suportar ambientes multi-brand e operações educacionais de alta volumetria.
 
-**Ações e Gestão de Portfólio:**
-
-- **Gestão de Alta Performance:** Coordenação simultânea de **10 projetos estratégicos em apenas 18 meses**, garantindo a entrega dentro do prazo e orçamento para marcas líderes como **IBMEC, Estácio e Damásio**.
-- **Arquitetura de Produto:** Condução do desenvolvimento da plataforma de gestão educacional, focando em UX/UI para diferentes perfis de alunos e integração de sistemas de e-learning complexos.
-- **Liderança Executiva:** Gestão direta de stakeholders C-level, assegurando que o roadmap de produto estivesse alinhado aos objetivos de receita e expansão do grupo.
-
-**Resultados de Grande Escala:**
-
-- **Impacto Massivo:** Implementação bem-sucedida para mais de **1 milhão de alunos** de graduação e pós-graduação (EAD), transformando a jornada digital de ponta a ponta.
-- **Expansão B2B:** Liderança da plataforma de pós-graduação da QConcursos/Damásio, alcançando a marca de **20 mil alunos ativos** com altos índices de engajamento.
-- **Eficiência Multi-brand:** Consolidação de processos que permitiram o atendimento simultâneo a múltiplas instituições com necessidades acadêmicas distintas.
+* Resultados de Destaque
+- Implantação da plataforma para mais de 1 milhão de alunos de graduação e pós-graduação EAD.
+- Liderança da migração acadêmica e operacional de instituições como Damásio, IBMEC e Estácio para o novo ecossistema digital.
+- Expansão da plataforma de pós-graduação QConcursos/Damásio, alcançando mais de 20 mil alunos ativos.
+- Consolidação de uma operação escalável para múltiplas instituições educacionais com diferentes regras acadêmicas e fluxos operacionais.
 
 **Link do Projeto:** [Veja o Sirius em ação](https://www.instagram.com/reel/C-qZQVigZBY/)
 
@@ -116,66 +83,61 @@ Liderança estratégica e operacional da BU responsável pela criação e entreg
 
 ### **OI S.A**
 
-### Projeto 190: Modernização e Integração Sistêmica | Oi S.A & SESEG
+### Modernização do Sistema de Emergência 190 — Oi & SESEG-RJ
 
-**Papel:** Gerente de Projetos (Liderança de 276 pessoas e 27 stakeholders)
+**Papel:** Gerente de Projetos | Operações Críticas
 
-**O Projeto:**
-Liderei a modernização crítica dos serviços de emergência do Estado do RJ, focando na completa integração tecnológica entre o **Atendimento Nível 1 (Cidadão)** e o **Centro de Despacho da Polícia Militar**.
+** - Liderei a modernização tecnológica do sistema de emergência 190 do Estado do RJ, coordenando uma operação com 276 profissionais e 27 stakeholders.
+- Conduzi a integração entre atendimento, despacho operacional e georreferenciamento de viaturas, eliminando gargalos operacionais e aumentando a velocidade de resposta.
+- Coordenei iniciativas de automação e integração sistêmica para comunicação em tempo real entre centrais de atendimento e equipes de campo.
+- Estruturei governança operacional e acompanhamento executivo para serviços críticos de segurança pública.
+- Resultados de Destaque
+- Redução do SLA operacional de atendimento de 45 para 15 minutos.
+- Plataforma dimensionada para milhões de cidadãos da Região Metropolitana do RJ.
+- Aumento da eficiência operacional e da capacidade de resposta das forças de segurança.
 
-**Ações e Inovação:**
+### Videomonitoramento Inteligente e Reconhecimento Facial — Oi & CICC
 
-- **Integração de Fluxo:** Implementei a comunicação direta entre a plataforma de atendimento inicial e o sistema de despacho, eliminando gargalos de redigitação e falhas de comunicação humana.
-- **Inteligência Geográfica:** Integrei a gestão de mapas em tempo real com o sistema de **Georreferenciamento de Frotas**, permitindo que o atendente visualizasse instantaneamente as viaturas mais próximas da coordenada exata da ocorrência.
-- **Automação de Dados:** O cruzamento automático de informações entre o chamado e a logística policial garantiu que os detalhes da ocorrência chegassem ao terminal da viatura em segundos.
+**Papel: Gerente de Projetos | Segurança Inteligente
 
-**Resultado de Impacto:**
-
-- **Eficiência Operacional:** Redução drástica do SLA de atendimento de uma ocorrência de **45 para 15 minutos**.
-- **Escala:** Sistema dimensionado para atender milhões de cidadãos na Região Metropolitana do RJ, otimizando o uso dos recursos públicos e salvando vidas através da agilidade na resposta.
-
-### Projeto Videomonitoramento e Inteligência Facial | Oi S.A & CICC
-
-*Foco: Tecnologia de ponta, segurança preventiva e impacto reportado na mídia.*
-
-- **Descrição:** Implantação do sistema de videomonitoramento inteligente com reconhecimento facial e de placas (LPR) em pontos críticos do RJ (Maracanã, Copacabana, Aeroportos e CICC).
-- **Ações:** Liderança da integração de mais de 100 câmeras com bancos de dados complexos (DETRAN, SEAP e Polícia Civil). Coordenei a implementação de algoritmos de comparação biométrica capazes de processar milhões de faces por segundo.
-- **Resultados comprovados:**
-    - **Prisões de alta precisão:** Mais de 46 criminosos foragidos capturados em apenas 3 meses através do alerta de reconhecimento facial.
-    - **Segurança em Grandes Eventos:** Monitoramento eficaz de áreas de alta circulação, garantindo segurança em estádios e na orla.
-    - **Função Social:** Estruturação da base para localização de pessoas desaparecidas através de dados biométricos únicos.
-    - **Recuperação de Ativos:** Rastreamento e recuperação de veículos roubados via reconhecimento automático de placas.
+Liderei a implantação de soluções de videomonitoramento inteligente com reconhecimento facial e leitura automática de placas (LPR) em áreas críticas do RJ.
+Coordenei integração entre câmeras, plataformas analíticas e bases de dados da Polícia Civil, DETRAN e SEAP.
+Atuei na gestão de fornecedores, integração tecnológica e governança operacional do projeto.
+Resultados de Destaque
+Mais de 46 foragidos identificados em apenas 3 meses de operação.
+Ampliação da segurança em grandes eventos e áreas de alta circulação.
+Estruturação de inteligência operacional para localização de pessoas desaparecidas e recuperação de veículos roubados.
 - **Vídeo da Reportagem:** [Assista à matéria no Jornal da Record](https://www.youtube.com/watch?v=1EhUDiWsWtw)
 - Link de reportagem: https://revistasegurancaeletronica.com.br/oi-aposta-em-solucoes-de-vigilancia-para-cidades-inteligentes/
 
 ### Projeto 160: Central de Atendimento Coronavírus | Oi S.A & Gabinete de Crise (RJ)
 
-**Papel:** Gerente de Projetos / Articulação com Gabinete de Crise
+**Papel:** Gerente de Projetos | Gestão de Crise
 
-**O Projeto:**
-Atuação estratégica na linha de frente tecnológica durante o início da pandemia de COVID-19. O desafio era criar um canal direto de comunicação entre o Governo do Estado e a população para triagem, orientações médicas e combate às *fake news*, desafogando as unidades de saúde.
-
-**Ações e Agilidade:**
-
-- **Implementação em Tempo Recorde:** Liderança do projeto em regime de extrema urgência, estruturando a Central 160 para operar com atendimento gratuito 24h em poucos dias.
-- **Gestão de Stakeholders em Crise:** Coordenação direta com o Gabinete de Crise do Estado e a Secretaria de Saúde para alinhar protocolos médicos ao sistema de telefonia.
-- **Escalabilidade:** Estruturação de uma arquitetura de atendimento capaz de suportar picos massivos de chamadas simultâneas, garantindo que nenhum cidadão ficasse sem suporte inicial.
-
-**Resultado de Impacto:**
-
-- **Saúde Pública:** Criação de um filtro essencial que permitiu orientar a população sobre o isolamento e identificar casos graves antes mesmo do deslocamento para hospitais.
-- **Serviço à Sociedade:** Impacto direto em todo o Estado do Rio de Janeiro, fornecendo suporte técnico-médico em um momento de incerteza global.
-- **Referência Governamental:** Projeto reconhecido oficialmente como pilar da estratégia de contenção e informação do Estado.
-
+**Liderei a implantação da Central 160 durante a pandemia de COVID-19, estruturando uma operação crítica de atendimento digital em regime de alta urgência.
+Coordenei integração entre tecnologia, telefonia e protocolos da Secretaria de Saúde e Gabinete de Crise do Estado.
+Estruturei arquitetura escalável para suportar picos massivos de chamadas simultâneas com operação 24x7.
+Resultados de Destaque
+Implantação da operação em tempo recorde durante o início da pandemia.
+Suporte direto à população do Estado do RJ com atendimento gratuito e orientação inicial de saúde.
+Projeto reconhecido como iniciativa estratégica de apoio à contenção da COVID-19.
 **Link de Referência:** [Notícia Oficial - Secretaria de Saúde RJ](https://www.saude.rj.gov.br/noticias/2020/03/gabinete-de-crise-lanca-central-telefonica-gratuita-para-coronavirus)
 
 ---
 
 ### **IBMEC**
 
-- Migração de todos os sistemas legados para o Protheus, além da mudança da plataforma de e-learning do Moodle para o Blackboard: https://www.baguete.com.br/noticias/ibmec-migra-para-blackboard-no-ead
-- Papel: Líder de equipe com 14 pessoas, responsável por cronograma, riscos e integração entre áreas acadêmicas e TI.
-- Resultados: Migração concluída sem impacto nos processos administrativos e acadêmicos, garantindo continuidade para milhares de alunos.
+*Modernização Acadêmica e Migração de Sistemas
+
+- Liderei a migração dos sistemas acadêmicos e administrativos do IBMEC para o ERP Protheus, além da transição da plataforma EAD do Moodle para Blackboard.
+- Coordenei uma equipe multidisciplinar de 14 profissionais, atuando na gestão de cronograma, riscos, integração entre áreas acadêmicas e tecnologia e acompanhamento executivo do projeto.
+- Conduzi a implantação e integração de sistemas críticos garantindo estabilidade operacional, continuidade acadêmica e mitigação de impactos durante a transição.
+- Atuei diretamente na governança do projeto, alinhamento com stakeholders e gestão das entregas em ambiente de alta criticidade educacional.
+
+*Resultados de Destaque
+- Migração concluída sem impactos relevantes para operação acadêmica e administrativa.
+- Garantia de continuidade dos serviços para milhares de alunos e docentes.
+- Modernização da infraestrutura acadêmica digital do IBMEC, aumentando escalabilidade e capacidade operacional.
 
 ---
 
@@ -191,6 +153,6 @@ Atuação estratégica na linha de frente tecnológica durante o início da pand
 
 - PSPO I – Professional Scrum Product Owner
 - ITIL Foundation – EXIN
-- MCDST – Microsoft Certified Professional
+- MCPS – Microsoft Certified Professional
 - ADVPL – ERP TOTVS
-- BPMN, CCD Liderança e Comunicação Não Violenta
+
