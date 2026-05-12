@@ -33,7 +33,7 @@ Gerente de Projetos com mais de 14 anos de experiência em transformação digit
 
 ### 🏆 Projetos de Destaque
 
-### **Planne (2025 - atual)**
+### **Planne**
 
 Otimização de Checkout e Eficiência Financeira — Planne
 Liderei a implantação do fluxo inteligente de autenticação 3DS integrado ao antifraude ClearSale, reduzindo fricção no checkout e otimizando custos operacionais.
