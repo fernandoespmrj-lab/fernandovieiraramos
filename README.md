@@ -111,6 +111,7 @@ Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiên
 - Estruturação de inteligência operacional para localização de pessoas desaparecidas e recuperação de veículos roubados.
 
 **Vídeo da Reportagem:** [Assista à matéria no Jornal da Record](https://www.youtube.com/watch?v=1EhUDiWsWtw)
+
 **Link de reportagem:**  https://revistasegurancaeletronica.com.br/oi-aposta-em-solucoes-de-vigilancia-para-cidades-inteligentes/
 
 ### Projeto 160: Central de Atendimento Coronavírus | Oi S.A & Gabinete de Crise (RJ)
