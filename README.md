@@ -37,11 +37,16 @@ Gerente de Projetos com mais de 14 anos de experiência em transformação digit
 
 ### Otimização de Checkout e Eficiência Financeira — Planne
 
-Liderei a implantação do fluxo inteligente de autenticação 3DS integrado ao antifraude ClearSale, reduzindo fricção no checkout e otimizando custos operacionais.
-Coordenei priorização técnica, desenho do fluxo de recuperação de transações e definição de KPIs financeiros junto às áreas de negócio.
-Redução de 28% nas tentativas de pagamento por compra aprovada (2,03 → 1,46).
-Redução de 37% no custo médio por transação aprovada (R$ 0,65 → R$ 0,41).
-Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiência operacional e experiência do usuário.
+**Papel:** Líder de Projetos | Transformação Digital
+
+- Liderei a implantação do fluxo inteligente de autenticação 3DS integrado ao antifraude ClearSale, reduzindo fricção no checkout e otimizando custos operacionais.
+- Coordenei priorização técnica, desenho do fluxo de recuperação de transações e definição de KPIs financeiros junto às áreas de negócio.
+
+*Resultados de destaque:**
+- Redução de 28% nas tentativas de pagamento por compra aprovada (2,03 → 1,46).
+- Redução de 37% no custo médio por transação aprovada (R$ 0,65 → R$ 0,41).
+- Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiência operacional e experiência do usuário.
+
 ---
 
 ### **Sysmanager | Light**
