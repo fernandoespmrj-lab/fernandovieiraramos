@@ -50,11 +50,11 @@ Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiên
 
 **Papel:** Gerente de Projetos Sênior | Transformação Digital
 
-Liderei a implantação da LIA, plataforma de atendimento digital da Light, conduzindo iniciativas de transformação digital em ambiente de alta complexidade operacional.
-Coordenei squads multidisciplinares e projetos de integração entre sistemas legados, plataformas digitais e estruturas de Data Lake corporativo.
-Estruturei governança operacional, indicadores executivos e processos ágeis para aumentar previsibilidade, eficiência e escalabilidade das entregas.
-Atuei na integração entre áreas de tecnologia, negócio e operações, garantindo alinhamento estratégico e continuidade operacional.
-A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a capacidade de atendimento digital e reduzindo fricção nos canais tradicionais.
+- Liderei a implantação da LIA, plataforma de atendimento digital da Light, conduzindo iniciativas de transformação digital em ambiente de alta complexidade operacional.
+- Coordenei squads multidisciplinares e projetos de integração entre sistemas legados, plataformas digitais e estruturas de Data Lake corporativo.
+- Estruturei governança operacional, indicadores executivos e processos ágeis para aumentar previsibilidade, eficiência e escalabilidade das entregas.
+- Atuei na integração entre áreas de tecnologia, negócio e operações, garantindo alinhamento estratégico e continuidade operacional.
+- A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a capacidade de atendimento digital e reduzindo fricção nos canais tradicionais.
 
 **Link do Projeto:** [Veja a LIA em ação no Instagram](https://www.instagram.com/reel/DJaLy5hJqqs/)
 
@@ -72,7 +72,7 @@ A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a ca
 - Atuei diretamente com stakeholders C-level na definição de roadmap, governança e priorização de entregas alinhadas aos objetivos de expansão e receita do grupo.
 - Estruturei processos operacionais e indicadores executivos para suportar ambientes multi-brand e operações educacionais de alta volumetria.
 
-* Resultados de Destaque
+Resultados de Destaque:
 - Implantação da plataforma para mais de 1 milhão de alunos de graduação e pós-graduação EAD.
 - Liderança da migração acadêmica e operacional de instituições como Damásio, IBMEC e Estácio para o novo ecossistema digital.
 - Expansão da plataforma de pós-graduação QConcursos/Damásio, alcançando mais de 20 mil alunos ativos.
