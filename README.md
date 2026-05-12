@@ -49,7 +49,7 @@ Gerente de Projetos com mais de 14 anos de experiência em transformação digit
 - Redução de 37% no custo médio por transação aprovada (R$ 0,65 → R$ 0,41).
 - Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiência operacional e experiência do usuário.
 
---
+---
 
 ### **Sysmanager | Light**
 
