@@ -72,7 +72,7 @@ Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiên
 - Atuei diretamente com stakeholders C-level na definição de roadmap, governança e priorização de entregas alinhadas aos objetivos de expansão e receita do grupo.
 - Estruturei processos operacionais e indicadores executivos para suportar ambientes multi-brand e operações educacionais de alta volumetria.
 
-Resultados de Destaque:
+**Resultados de Destaque:**
 - Implantação da plataforma para mais de 1 milhão de alunos de graduação e pós-graduação EAD.
 - Liderança da migração acadêmica e operacional de instituições como Damásio, IBMEC e Estácio para o novo ecossistema digital.
 - Expansão da plataforma de pós-graduação QConcursos/Damásio, alcançando mais de 20 mil alunos ativos.
