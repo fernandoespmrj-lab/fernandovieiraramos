@@ -99,31 +99,32 @@ Economia mensal no antifraude de R$ 9,8 mil para R$ 6,1 mil, aumentando eficiên
 
 ### Videomonitoramento Inteligente e Reconhecimento Facial — Oi & CICC
 
-**Papel: Gerente de Projetos | Segurança Inteligente
+**Papel:** Gerente de Projetos | Segurança Inteligente
 
 - Liderei a implantação de soluções de videomonitoramento inteligente com reconhecimento facial e leitura automática de placas (LPR) em áreas críticas do RJ.
 - Coordenei integração entre câmeras, plataformas analíticas e bases de dados da Polícia Civil, DETRAN e SEAP.
 - Atuei na gestão de fornecedores, integração tecnológica e governança operacional do projeto.
 
-*Resultados de Destaque
+**Resultados de Destaque:**
 - Mais de 46 pessoas foragidas/desaparecidas identificadas em apenas 3 meses de operação.
 - Ampliação da segurança em grandes eventos e áreas de alta circulação.
 - Estruturação de inteligência operacional para localização de pessoas desaparecidas e recuperação de veículos roubados.
 
   **Vídeo da Reportagem:** [Assista à matéria no Jornal da Record](https://www.youtube.com/watch?v=1EhUDiWsWtw)
-  **Link de reportagem: https://revistasegurancaeletronica.com.br/oi-aposta-em-solucoes-de-vigilancia-para-cidades-inteligentes/
+  **Link de reportagem:** https://revistasegurancaeletronica.com.br/oi-aposta-em-solucoes-de-vigilancia-para-cidades-inteligentes/
 
 ### Projeto 160: Central de Atendimento Coronavírus | Oi S.A & Gabinete de Crise (RJ)
 
 **Papel:** Gerente de Projetos | Gestão de Crise
 
-Liderei a implantação da Central 160 durante a pandemia de COVID-19, estruturando uma operação crítica de atendimento digital em regime de alta urgência.
-Coordenei integração entre tecnologia, telefonia e protocolos da Secretaria de Saúde e Gabinete de Crise do Estado.
-Estruturei arquitetura escalável para suportar picos massivos de chamadas simultâneas com operação 24x7.
-Resultados de Destaque
-Implantação da operação em tempo recorde durante o início da pandemia.
-Suporte direto à população do Estado do RJ com atendimento gratuito e orientação inicial de saúde.
-Projeto reconhecido como iniciativa estratégica de apoio à contenção da COVID-19.
+- Liderei a implantação da Central 160 durante a pandemia de COVID-19, estruturando uma operação crítica de atendimento digital em regime de alta urgência.
+- Coordenei integração entre tecnologia, telefonia e protocolos da Secretaria de Saúde e Gabinete de Crise do Estado.
+- Estruturei arquitetura escalável para suportar picos massivos de chamadas simultâneas com operação 24x7.
+
+**Resultados de Destaque:**
+- Implantação da operação em tempo recorde durante o início da pandemia.
+- Suporte direto à população do Estado do RJ com atendimento gratuito e orientação inicial de saúde.
+- Projeto reconhecido como iniciativa estratégica de apoio à contenção da COVID-19.
 **Link de Referência:** [Notícia Oficial - Secretaria de Saúde RJ](https://www.saude.rj.gov.br/noticias/2020/03/gabinete-de-crise-lanca-central-telefonica-gratuita-para-coronavirus)
 
 ---
