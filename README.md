@@ -34,6 +34,7 @@ Gerente de Projetos com mais de 14 anos de experiência em transformação digit
 ### 🏆 Projetos de Destaque
 
 
+
 ### **Planne**
 
 ### Otimização de Checkout e Eficiência Financeira — Planne
