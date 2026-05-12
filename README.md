@@ -66,7 +66,7 @@ A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a ca
 
 **Papel:** Head de Projetos B2B | Gerente de Projetos Estratégicos
 
-** - Liderei a estruturação e entrega da plataforma acadêmica integrada SIRIUS, iniciativa estratégica do grupo YDUQS para unificação da experiência educacional B2B em larga escala.
+- Liderei a estruturação e entrega da plataforma acadêmica integrada SIRIUS, iniciativa estratégica do grupo YDUQS para unificação da experiência educacional B2B em larga escala.
 - Gerenciei simultaneamente um portfólio de 10 projetos estratégicos em 18 meses, garantindo previsibilidade, controle financeiro e alinhamento executivo para marcas como IBMEC, Estácio, Damásio, Wyden e Percursa.
 - Coordenei squads multidisciplinares e iniciativas de migração, implantação e integração de sistemas acadêmicos, assegurando estabilidade operacional e escalabilidade da plataforma.
 - Atuei diretamente com stakeholders C-level na definição de roadmap, governança e priorização de entregas alinhadas aos objetivos de expansão e receita do grupo.
@@ -88,7 +88,7 @@ A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a ca
 
 **Papel:** Gerente de Projetos | Operações Críticas
 
-** - Liderei a modernização tecnológica do sistema de emergência 190 do Estado do RJ, coordenando uma operação com 276 profissionais e 27 stakeholders.
+- Liderei a modernização tecnológica do sistema de emergência 190 do Estado do RJ, coordenando uma operação com 276 profissionais e 27 stakeholders.
 - Conduzi a integração entre atendimento, despacho operacional e georreferenciamento de viaturas, eliminando gargalos operacionais e aumentando a velocidade de resposta.
 - Coordenei iniciativas de automação e integração sistêmica para comunicação em tempo real entre centrais de atendimento e equipes de campo.
 - Estruturei governança operacional e acompanhamento executivo para serviços críticos de segurança pública.
@@ -101,21 +101,23 @@ A solução impactou diretamente mais de 1,5 milhão de clientes, ampliando a ca
 
 **Papel: Gerente de Projetos | Segurança Inteligente
 
-Liderei a implantação de soluções de videomonitoramento inteligente com reconhecimento facial e leitura automática de placas (LPR) em áreas críticas do RJ.
-Coordenei integração entre câmeras, plataformas analíticas e bases de dados da Polícia Civil, DETRAN e SEAP.
-Atuei na gestão de fornecedores, integração tecnológica e governança operacional do projeto.
-Resultados de Destaque
-Mais de 46 foragidos identificados em apenas 3 meses de operação.
-Ampliação da segurança em grandes eventos e áreas de alta circulação.
-Estruturação de inteligência operacional para localização de pessoas desaparecidas e recuperação de veículos roubados.
-- **Vídeo da Reportagem:** [Assista à matéria no Jornal da Record](https://www.youtube.com/watch?v=1EhUDiWsWtw)
-- Link de reportagem: https://revistasegurancaeletronica.com.br/oi-aposta-em-solucoes-de-vigilancia-para-cidades-inteligentes/
+- Liderei a implantação de soluções de videomonitoramento inteligente com reconhecimento facial e leitura automática de placas (LPR) em áreas críticas do RJ.
+- Coordenei integração entre câmeras, plataformas analíticas e bases de dados da Polícia Civil, DETRAN e SEAP.
+- Atuei na gestão de fornecedores, integração tecnológica e governança operacional do projeto.
+
+*Resultados de Destaque
+- Mais de 46 pessoas foragidas/desaparecidas identificadas em apenas 3 meses de operação.
+- Ampliação da segurança em grandes eventos e áreas de alta circulação.
+- Estruturação de inteligência operacional para localização de pessoas desaparecidas e recuperação de veículos roubados.
+
+  **Vídeo da Reportagem:** [Assista à matéria no Jornal da Record](https://www.youtube.com/watch?v=1EhUDiWsWtw)
+  **Link de reportagem: https://revistasegurancaeletronica.com.br/oi-aposta-em-solucoes-de-vigilancia-para-cidades-inteligentes/
 
 ### Projeto 160: Central de Atendimento Coronavírus | Oi S.A & Gabinete de Crise (RJ)
 
 **Papel:** Gerente de Projetos | Gestão de Crise
 
-**Liderei a implantação da Central 160 durante a pandemia de COVID-19, estruturando uma operação crítica de atendimento digital em regime de alta urgência.
+Liderei a implantação da Central 160 durante a pandemia de COVID-19, estruturando uma operação crítica de atendimento digital em regime de alta urgência.
 Coordenei integração entre tecnologia, telefonia e protocolos da Secretaria de Saúde e Gabinete de Crise do Estado.
 Estruturei arquitetura escalável para suportar picos massivos de chamadas simultâneas com operação 24x7.
 Resultados de Destaque
